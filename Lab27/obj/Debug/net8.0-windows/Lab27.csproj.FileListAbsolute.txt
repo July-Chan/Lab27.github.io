@@ -1,0 +1,16 @@
+D:\ООП\Lab27\Lab27\bin\Debug\net8.0-windows\Lab27.exe
+D:\ООП\Lab27\Lab27\bin\Debug\net8.0-windows\Lab27.deps.json
+D:\ООП\Lab27\Lab27\bin\Debug\net8.0-windows\Lab27.runtimeconfig.json
+D:\ООП\Lab27\Lab27\bin\Debug\net8.0-windows\Lab27.dll
+D:\ООП\Lab27\Lab27\bin\Debug\net8.0-windows\Lab27.pdb
+D:\ООП\Lab27\Lab27\obj\Debug\net8.0-windows\Lab27.Form1.resources
+D:\ООП\Lab27\Lab27\obj\Debug\net8.0-windows\Lab27.csproj.GenerateResource.cache
+D:\ООП\Lab27\Lab27\obj\Debug\net8.0-windows\Lab27.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\Lab27\Lab27\obj\Debug\net8.0-windows\Lab27.AssemblyInfoInputs.cache
+D:\ООП\Lab27\Lab27\obj\Debug\net8.0-windows\Lab27.AssemblyInfo.cs
+D:\ООП\Lab27\Lab27\obj\Debug\net8.0-windows\Lab27.csproj.CoreCompileInputs.cache
+D:\ООП\Lab27\Lab27\obj\Debug\net8.0-windows\Lab27.dll
+D:\ООП\Lab27\Lab27\obj\Debug\net8.0-windows\refint\Lab27.dll
+D:\ООП\Lab27\Lab27\obj\Debug\net8.0-windows\Lab27.pdb
+D:\ООП\Lab27\Lab27\obj\Debug\net8.0-windows\Lab27.genruntimeconfig.cache
+D:\ООП\Lab27\Lab27\obj\Debug\net8.0-windows\ref\Lab27.dll
